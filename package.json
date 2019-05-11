@@ -24,8 +24,8 @@
 		"lorem-ipsum": "1.0.6"
 	},
 	"devDependencies": {
-		"expect.js": "^0.3.1",
-		"handlebars": "^4.1.2",
+		"expect.js": "0.3.1",
+		"handlebars": "4.1.2",
 		"mocha": "6.0.2"
 	},
 	"engines": {
