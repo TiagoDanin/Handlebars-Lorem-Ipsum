@@ -1,34 +1,34 @@
 {
-  "name": "handlebars-lorem-ipsum",
-  "version": "1.0.0",
-  "description": "Handlebars helper - Generate lorem ipsum text",
-  "author": "TiagoDanin <TiagoDanin@outlook.com>",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TiagoDanin/Handlebars-Lorem-Ipsum.git"
-  },
-  "homepage": "http://TiagoDanin.github.io/Handlebars-Lorem-Ipsum",
-  "bugs": "https://github.com/TiagoDanin/Handlebars-Lorem-Ipsum/issues",
-  "keywords": [
-    "handlebars",
-    "helper",
-    "lorem",
-    "ipsum",
-    "generate"
-  ],
-  "scripts": {
-    "test": "mocha --exit --timeout 100000"
-  },
-  "dependencies": {
-    "lorem-ipsum": "1.0.6"
-  },
-  "devDependencies": {
-    "expect.js": "0.3.1",
-    "handlebars": "4.1.2",
-    "mocha": "6.0.2"
-  },
-  "engines": {
-    "node": ">= 8"
-  }
+	"name": "handlebars-lorem-ipsum",
+	"version": "1.0.0",
+	"description": "Handlebars helper - Generate lorem ipsum text",
+	"author": "TiagoDanin <TiagoDanin@outlook.com>",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/TiagoDanin/Handlebars-Lorem-Ipsum.git"
+	},
+	"homepage": "http://TiagoDanin.github.io/Handlebars-Lorem-Ipsum",
+	"bugs": "https://github.com/TiagoDanin/Handlebars-Lorem-Ipsum/issues",
+	"keywords": [
+		"handlebars",
+		"helper",
+		"lorem",
+		"ipsum",
+		"generate"
+	],
+	"scripts": {
+		"test": "mocha --exit --timeout 100000"
+	},
+	"dependencies": {
+		"lorem-ipsum": "1.0.6"
+	},
+	"devDependencies": {
+		"expect.js": "0.3.1",
+		"handlebars": "^4.1.2",
+		"mocha": "6.0.2"
+	},
+	"engines": {
+		"node": ">= 8"
+	}
 }
