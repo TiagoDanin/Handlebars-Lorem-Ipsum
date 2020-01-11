@@ -21,7 +21,7 @@
 		"test": "mocha --exit --timeout 100000"
 	},
 	"dependencies": {
-		"lorem-ipsum": "1.0.6"
+		"lorem-ipsum": "2.0.3"
 	},
 	"devDependencies": {
 		"expect.js": "^0.3.1",
